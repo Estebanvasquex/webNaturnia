@@ -1,6 +1,7 @@
 ## Naturnia
 
-Sitio web de Iriscol
+## Se debe correr en la version node js 16.20.0
+
 
 ## Breakpoints
 
@@ -13,3 +14,4 @@ Sitio web de Iriscol
   xl: '1200px',
 }
 ```
+
